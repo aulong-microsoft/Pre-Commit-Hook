@@ -1,0 +1,4 @@
+pre-commit==2.15.0
+detect-secrets==1.1.0
+pyahocorasick==1.4.0
+
